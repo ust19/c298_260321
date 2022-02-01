@@ -3,8 +3,14 @@
  *
  *  Created on: 25.09.2019
  *      Author: Admin
+//<<<<<<< ust19-patch-1
  */
 //
+//=======
+ */ 
+//test tom
+
+
 #include "main.h"
 #include "display_kunteng.h"
 #include "stm32f1xx_hal.h"
